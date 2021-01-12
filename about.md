@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Ritu. I set up this blog to document all my trials with everything that I find interesting. If I do get it up and running, this should be a mix of acads, travel, reading and food.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ritu.anilkumar@gmail.com](mailto:ritu.anilkumar@gmail.com)
